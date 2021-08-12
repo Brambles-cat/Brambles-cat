@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading and practicing programming with different projects
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: placeholder
+- 📫 How to reach me: Discord: Smol Ascended Bee#5061
 
 <!---
 Brambles-cat/Brambles-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
